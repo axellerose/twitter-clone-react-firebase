@@ -5,7 +5,7 @@ import Widgets from './components/Widgets';
 
 function App() {
   return (
-    // BEM
+    
     <div className="App">
       <Sidebar />
       <Feed />
