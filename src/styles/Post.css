@@ -17,6 +17,7 @@
 .post__body {
     flex: 1;
     padding: 10px;
+    
 }
 
 .post__body > img {
