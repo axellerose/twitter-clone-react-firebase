@@ -5,6 +5,15 @@
     padding-bottom: 10px;
 }
 
+.post__avatar {
+    padding: 10px;
+}
+
+.MuiAvatar-root {
+    height: 50px !important;
+    width: 50px !important;
+}
+
 .post__body {
     flex: 1;
     padding: 10px;
