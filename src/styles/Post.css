@@ -16,6 +16,7 @@
 
 .post__footer {
     display: flex;
+    color: gray;
     justify-content: space-between;
     margin-top: 10px;
 }
